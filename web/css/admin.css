@@ -1,0 +1,113 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 12, 2016, 9:09:54 AM
+    Author     : BLAMAN
+*/
+
+.paging-nav {
+    text-align: right;
+    padding-top: 2px;
+}
+
+.paging-nav a {
+    margin: auto 1px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1px 7px;
+    background: #91b9e6;
+    color: white;
+    border-radius: 3px;
+}
+
+.paging-nav .selected-page {
+    background: #187ed5;
+    font-weight: bold;
+}
+
+.paging-nav,
+#tableData {
+    width: 700px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+table {
+    color: #333;
+    font-family: sans-serif;
+    font-size: .9em;
+    font-weight: 300;
+    text-align: left;
+    line-height: 40px;
+    border-spacing: 0;
+    border: 2px solid #975997;
+    width: 800px;
+    margin: 50px auto;
+}
+
+thead tr:first-child {
+    background: #975997;
+    color: #fff;
+    border: none;
+}
+
+th {font-weight: bold;}
+th:first-child, td:first-child {padding: 0 15px 0 20px;}
+
+thead tr:last-child th {border-bottom: 3px solid #ddd;}
+
+tbody tr:hover {background-color: #ffeeff;}
+tbody tr:last-child td {border: none;}
+tbody td {border-bottom: 1px solid #ddd;}
+
+td:last-child {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.button {
+    color: #696969;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+.alterar:hover {
+    color: goldenrod;
+}
+
+.excluir:hover {
+    color: goldenrod;
+}
+.btniput
+{
+    position: relative;
+    color: rgba(255,255,255,1);
+    text-decoration: none;
+    background-color: rgba(219,87,5,1);
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: 400;
+    font-size: 2em;
+    display: inline;
+    padding: 4px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
+    -moz-box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
+    box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
+    margin: 100px auto;
+    width: 160px;
+    text-align: center;
+    -webkit-transition: all .1s ease;
+    -moz-transition: all .1s ease;
+    -ms-transition: all .1s ease;
+    -o-transition: all .1s ease;
+    transition: all .1s ease;
+}
+
+
+
+
+

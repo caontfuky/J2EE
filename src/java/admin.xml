@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <package name="admin" extends="struts-default">
+        <action name="delete" class="servletaction.ActionAdmin" method="excuteDelete" >
+            <result name="success">pages/admin.jsp </result>
+        </action>
+       <action name="edit" class="servletaction.ActionAdmin" method="excuteEdit" >
+            <result name="success">pages/edit.jsp </result>
+        </action>
+        <action name="update" class="servletaction.ActionAdmin" method="updateEdit" >
+            <result name="success">pages/test.jsp </result>
+          
+        </action>
+        
+         <action name="backadmin" class="servletaction.ActionAdmin" method="backAdmin" >
+            <result name="success">pages/admin.jsp </result>
+          
+        </action>
+        
+         <action name="addproduct" class="servletaction.ActionAdmin" method="addProduct" >
+            <result name="success">pages/addproduct.jsp </result>
+          
+        </action>
+        
+         <action name="excuteadd" class="servletaction.ActionAdmin" method="excuteAdd" >
+            <result name="success">pages/addproduct.jsp </result>
+          
+        </action>
+        <action name="backindex" class="servletaction.ActionAdmin" method="backIndex" >
+            <result name="success">index.jsp </result>
+          
+        </action>
+        
+        
+     
+        
+    </package>
+</struts>

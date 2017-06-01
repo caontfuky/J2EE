@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/example/Hello.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/saleof-content.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/cart.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/servletaction/AccountAction.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/account.xml</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/model/AccountModel.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/entity/CartDetail.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/index.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/footer.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/entity/Product.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/admin.xml</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/test.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/slider.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/example.xml</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/connectionDB/test.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/example/HelloWorld.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/model/CataLogModel.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/servletaction/ActionAdmin.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/struts.xml</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/hello.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/chitietdonhang.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/setup/glassfish-resources.xml</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/example/HelloWorld.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/product-detail.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/catagory.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/connectionDB/ConnectionDB.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/left-content.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/servletaction/CatalogAction.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/welcome.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/admin.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/entity/Account.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/main-content.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/cart.xml</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/servletaction/CartAction.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/servletaction/Servlet.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/src/java/model/CartModel.java</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/tes.jsp</file>
+            <file>file:/C:/Users/caont/Desktop/J2EE/DOAN/Source/SourceCode/DO_AN_CUOI_KI/web/pages/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
